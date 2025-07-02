@@ -1,4 +1,4 @@
-## Hi there 👋😄
+## Hi there 👋
 
 I'm Dheeraj, a software engineer from Bengaluru,KA
 
